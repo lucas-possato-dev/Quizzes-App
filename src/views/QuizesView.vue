@@ -53,6 +53,13 @@ header input {
   margin-top: 40px;
 }
 
+@media (max-width: 660px) {
+  .options-container {
+    justify-content: center;
+    align-items: center;
+  }
+}
+
 .notFound {
   font-weight: bold;
   font-size: large;
