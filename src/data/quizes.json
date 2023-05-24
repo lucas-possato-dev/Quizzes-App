@@ -1,0 +1,941 @@
+[
+  {
+    "id": 1,
+    "img": "https://e0.pxfuel.com/wallpapers/255/986/desktop-wallpaper-tag-high-resolution-math-background-and-for-for-your-mobile-tablet-explore-maths-maths-aesthetic-math.jpg",
+    "name": "Matemática",
+    "questions": [
+      {
+        "id": 1,
+        "text": "8 ÷ 2(2 + 2)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "16",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "8",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "24",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Raiz quadrada de 64 * 9",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "81",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "72",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "144",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "3 + 3 x 3 ÷ 3 - 3",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "3",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "9",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "16",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Qual é o resultado da expressão 3 + 4 * 2?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "11",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "14",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "10",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "21",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 5,
+        "text": "Qual é o valor de x na equação 2x + 5 = 15?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "5",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "6",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "7",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 6,
+        "text": "Qual é a área de um círculo com raio 5 cm?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "25π cm²",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "10π cm²",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "50π cm²",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "125π cm²",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 7,
+        "text": "Qual é o resultado da expressão 12 ÷ 4 - 1?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "2",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "3",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "4",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 8,
+        "text": "Qual é o valor de y na equação 2y - 8 = 10?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "7",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "8",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "9",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 9,
+        "text": "Qual é o resultado da expressão (4 + 5) * 2 - 3?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "13",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "14",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "15",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "16",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 10,
+        "text": "Qual é o valor de z na equação 3z + 7 = 22?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "5",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "7",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "8",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "https://wallpaperaccess.com/full/1267763.jpg",
+    "name": "Biologia",
+    "questions": [
+      {
+        "id": 1,
+        "text": "O ciclo de Krebes ocorre no(a)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Mitocôndria",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Núcleo",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Complexo de Golgi",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Citoplasma",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Quantas moléculas de oxigênio a hemoglobina pode conter?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "3",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "4",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Qual é o nome do processo em que ocorre a formação de novas células?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Fotossíntese",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Reprodução",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Digestão",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Respiração",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 4,
+        "text": "Qual é o principal pigmento responsável pela absorção de luz na fotossíntese?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Caroteno",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Clorofila",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Melanina",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Hemoglobina",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 5,
+        "text": "Qual é o órgão responsável pela produção de insulina no corpo humano?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Fígado",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Pâncreas",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Rim",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Estômago",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 6,
+        "text": "Qual é o nome do processo pelo qual as células obtêm energia a partir da glicose?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Fotossíntese",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Fermentação",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Respiração celular",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Digestão",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 7,
+        "text": "Qual é o tipo de reprodução em que apenas um indivíduo é necessário para gerar descendentes?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Reprodução sexuada",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Reprodução assexuada",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Reprodução por conjugação",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Reprodução por partenogênese",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 8,
+        "text": "Qual é o órgão responsável pela filtragem do sangue, produção de urina e regulação do equilíbrio de água e sais no corpo?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Fígado",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Rim",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Pâncreas",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Baço",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Qual é o órgão responsável pela produção de glóbulos vermelhos?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Coração",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Pulmões",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Medula óssea",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Rins",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 10,
+        "text": "Qual é o nome do processo de eliminação de resíduos nitrogenados do corpo através da urina?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Digestão",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Filtragem",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Excreção",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Absorção",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "https://media.istockphoto.com/id/1383464206/photo/molecular-structure-blue-dark.jpg?b=1&s=170667a&w=0&k=20&c=V5KFEojvwlqU4ZP7NG6KZa4T3QSKvsUsXhH4ERCRmY0=",
+    "name": "Química",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Qual é a composição química do sal de cozinha?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "NaCl",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "K2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "NaCl2C4H7",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "CH4",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Qual é o símbolo químico do Potássio?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "P",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Pt",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Pts",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "K",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Qual não é orgânico?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "CH4",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "NaCl",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "C2H6",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "C3H8",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Qual é o número atômico do elemento químico carbono?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "6",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "16",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "20",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 5,
+        "text": "Qual é a fórmula química da água?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "H2O2",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "H3O",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "H2O",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "HO",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 6,
+        "text": "Qual é o processo químico de queima de um composto orgânico na presença de oxigênio?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Oxidação",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Redução",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Combustão",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Evaporação",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 7,
+        "text": "Qual é o símbolo químico para o elemento oxigênio?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "O",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "C",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "N",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "H",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 8,
+        "text": "Qual é o número de elétrons em um átomo neutro de oxigênio?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "8",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "10",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 9,
+        "text": "Qual é a substância produzida quando um ácido reage com uma base?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Sal",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Álcool",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Óxido",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Gás",
+            "isCorrect": false
+          }
+        ]
+      },
+
+      {
+        "id": 10,
+        "text": "Qual é a unidade básica de um composto orgânico?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Íon",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Molécula",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Elemento",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Átomo",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]
